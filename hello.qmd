@@ -1,0 +1,10 @@
+---
+title: "Hello"
+author: "Andrea Morales"
+format: html
+editor: visual
+---
+
+```{r}
+summary(cars)
+````
