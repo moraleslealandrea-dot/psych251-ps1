@@ -7,4 +7,9 @@ editor: visual
 
 ```{r}
 summary(cars)
-````
+```
+#Editing document for second commit
+```{r}
+a<-2
+a
+```
