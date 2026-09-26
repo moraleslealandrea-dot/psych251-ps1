@@ -13,3 +13,9 @@ summary(cars)
 a<-2
 a
 ```
+```{r}
+library(ggplot2)
+head(mtcars)
+ggplot(mtcars, aes(x = wt, y = mpg)) +
+  geom_point()
+```
