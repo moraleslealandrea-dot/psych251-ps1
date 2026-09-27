@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
+title: "Hello, other title"
+=======
 title: "Hello, conflicts"
+>>>>>>> main
 author: "Andrea Morales"
 format: html
 editor: visual
